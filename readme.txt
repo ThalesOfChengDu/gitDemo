@@ -5,4 +5,9 @@ Git is free software.
 now,this is second try for "add","commit" a file.
 anthor:jiangzhiheng
 time:2016/3/16
+<<<<<<< HEAD
 a absolute different line!
+=======
+this line was created in a new branch!
+wow~a new line was created!
+>>>>>>> dev
