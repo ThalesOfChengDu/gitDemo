@@ -7,3 +7,4 @@ anthor:jiangzhiheng
 time:2016/3/16
 this line was created in a new branch!
 wow~a new line was created!
+I would like to develop a new function on this branch!
